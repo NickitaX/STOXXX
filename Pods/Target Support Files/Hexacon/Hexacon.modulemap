@@ -1,0 +1,6 @@
+framework module Hexacon {
+  umbrella header "Hexacon-umbrella.h"
+
+  export *
+  module * { export * }
+}

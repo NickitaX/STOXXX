@@ -1,0 +1,6 @@
+framework module Pods_StoxxxTests {
+  umbrella header "Pods-StoxxxTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
